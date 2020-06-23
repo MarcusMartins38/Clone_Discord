@@ -36,6 +36,11 @@ export const UserData = styled.div`
     color: var(--white);
     font-size: 13px;
   }
+
+  > span {
+    color: var(--gray);
+    font-size: 13px;
+  }
 `;
 
 export const Icons = styled.div`
